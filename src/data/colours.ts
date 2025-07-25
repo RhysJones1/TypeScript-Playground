@@ -1,0 +1,22 @@
+export const vehicleColours = [
+  'BROWN',
+  'BRONZE', 
+  'RED',
+  'PINK',
+  'ORANGE',
+  'YELLOW',
+  'GOLD',
+  'GREEN',
+  'BLUE',
+  'PURPLE',
+  'GREY',
+  'SILVER',
+  'WHITE',
+  'BLACK',
+  'MULTI-COLOUR',
+  'BEIGE',
+  'MAROON',
+  'TURQUOISE',
+  'CREAM',
+  'NOT STATED'
+];

@@ -1,0 +1,40 @@
+export const sampleVehicleData: any = [
+  {
+    autonomousVehicle: false,
+    engineNumber: "ABC123456",
+    fuelTypeCode: "P",
+    isFrozen: false,
+    secondaryColour: "SILVER",
+    sornStart: "2023-01-15",
+    vrnOracleFormat: "AB12CDE",
+    dateChanged: "2023-06-10",
+    ddMandateId: "DD001",
+    destroyed: false,
+    exported: false,
+    maxTowableTrailerMassBraked: 1500,
+    maxTowableTrailerMassUnBraked: 750,
+    nonStandardMake: false,
+    refundDate: null,
+    scrapped: false,
+    seriouslyDamaged: false
+  },
+  {
+    autonomousVehicle: true,
+    engineNumber: "XYZ789012",
+    fuelTypeCode: "E",
+    isFrozen: true,
+    secondaryColour: "BLACK",
+    sornStart: null,
+    vrnOracleFormat: "CD34FGH",
+    dateChanged: "2023-08-22",
+    ddMandateId: "DD002",
+    destroyed: false,
+    exported: true,
+    maxTowableTrailerMassBraked: 2000,
+    maxTowableTrailerMassUnBraked: 1000,
+    nonStandardMake: true,
+    refundDate: "2023-09-01",
+    scrapped: false,
+    seriouslyDamaged: false
+  }
+];
